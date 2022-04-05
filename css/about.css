@@ -1,6 +1,73 @@
 @charset "UTF-8";
 /* CSS Document */
 
+body {
+    background-image:url(/images/background.jpeg);
+    background-color:#cccccc;
+}
 nav {
     background-color: rgb(248, 248, 248);
 }
+
+img { 
+    
+    margin-top: .5%;
+    margin-bottom: 2.5%;
+    align-content: center;
+}
+
+.hero {
+    text-align: center;
+    font-size: 80px;
+    margin-top: -400px;
+    color:  rgb(248, 248, 248);
+}
+.article {
+    margin-top: 100px;
+    background-color: #303030;
+    margin-left:5%;
+    margin-right:5%;
+    padding-left:2.5%;
+    padding-right:2.5%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    color: rgb(248, 248, 248);
+}
+.redd{
+    color: #F26868;
+}
+h3{
+    color: #f26868;
+}
+
+.logo{
+    margin-top:10%;
+    margin-left:40%;
+    margin-bottom:5px;
+}
+
+.info {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.btn {
+    margin-left:40%;
+    margin-top:5px;
+    background-color:#f26868 ;
+    font-size: large;
+}
+
+footer{
+    background-color: #303030 ;
+    text-align: center;
+    color: rgb(248, 248, 248);
+    padding-top: 5px;
+    padding-bottom:100%;
+    font-size: large;
+}
+
+@media only screen and (max-width: 600px) {
+    
+  }
