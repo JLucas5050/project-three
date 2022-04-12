@@ -70,5 +70,8 @@ footer{
 }
 
 @media only screen and (max-width: 600px) {
-    
+    h3{
+        color: #f26868;
+        font-size: small;
+    }
   }

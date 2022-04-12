@@ -51,7 +51,7 @@ h3{
 }
 
 .btn {
-    margin-left:40%;
+    margin-left:30%;
     margin-top:5px;
     background-color:#f26868 ;
     font-size: large;
@@ -68,9 +68,41 @@ footer{
 
 @media only screen and (max-width: 1000px) {
     .btn {
-        margin-left:35%;
+        margin-left:auto;
+        padding-left:5%;
         margin-top:5px;
         background-color:#f26868 ;
-        font-size: large;
+        font-size: 9px;
     }
+    .hero {
+        text-align: left;
+        font-size: small;
+        margin-top: -400px;
+        color:  rgb(248, 248, 248);
+    }
+    .article {
+        margin-top: 350px;
+        background-color: #303030;
+        margin-left:5%;
+        margin-right:5%;
+        padding-left:2.5%;
+        padding-right:2.5%;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        color: rgb(248, 248, 248);
   }
+h3{
+    color: #f26868;
+    font-size:20px;
+    text-align: center;
+}
+.brand-logo{
+font-size: small;
+}
+
+
+
+
+
+
+}

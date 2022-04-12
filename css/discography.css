@@ -90,4 +90,14 @@ footer{
         background-color:#f26868 ;
         font-size: large;
     }
+
+    .card-title{
+        text-align: center;
+        margin-left: 5%;
+        margin-top: 10px;
+    }
+    .row{
+        margin-left: auto;
+        margin-top: 5%;
+    }
   }

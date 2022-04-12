@@ -85,4 +85,31 @@ footer{
         background-color:#f26868 ;
         font-size: large;
     }
-  }
+
+    .hero {
+        text-align: center;
+        font-size: 30px;
+        margin-top: auto;
+        color:  #F26868;
+    }
+    .hero2 {
+        text-align: center;
+        font-size: 20px;
+        margin-top: auto;
+        color: rgb(36, 35, 35);
+    }
+    .hero3 {
+        text-align: center;
+        font-size: 14px;
+        margin-top: auto;
+        color: rgb(49, 48, 48);
+    }
+    .article {
+
+        margin-left:5%;
+        margin-right:5%;
+        padding-left:2.5%;
+        padding-right:2.5%;
+        padding-bottom: 5px;
+        color: rgb(32, 32, 32);
+}
